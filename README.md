@@ -1,0 +1,1 @@
+# kde-spotify-media-key
